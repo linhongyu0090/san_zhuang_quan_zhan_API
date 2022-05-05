@@ -11,7 +11,8 @@
       "81junVbiuyL.jpg",
       "61wIVtrz54L.jpg"
     ],
-    "tradename":"trade1000"
+    "tradename":"trade1000",
+    "category":"Phone"
   },
   {
     "rating" : 4,
@@ -25,7 +26,8 @@
       "71SfvBP1gBL.jpg",
       "61YfilUZTUL.jpg"
     ],
-    "tradename":"trade1001"
+    "tradename":"trade1001",
+    "category":"Phone"
   },
   {
     "rating" : 3,
@@ -39,7 +41,8 @@
       "71uNkgYrWcL.jpg",
       "61paF2JiudL.jpg"
     ],
-    "tradename":"trade1002"
+    "tradename":"trade1002",
+    "category":"Phone"
   },
   {
     "rating" : 2,
@@ -53,7 +56,8 @@
       "71Uqzn6rqJL.jpg",
       "614hWvi65iL.jpg"
     ],
-    "tradename":"trade1003"
+    "tradename":"trade1003",
+    "category":"Phone"
   },
   {
     "rating" : 4,
@@ -67,7 +71,8 @@
       "71OxEU5mSCL.jpg",
       "61BvZ6EbUvL.jpg"
     ],
-    "tradename":"trade1004"
+    "tradename":"trade1004",
+    "category":"Phone"
   },
   {
     "rating" : 4,
@@ -79,7 +84,8 @@
       "61jLiCovxVL.jpg",
       "71zwao302EL.jpg",
       "81DzfVDR-lL.jpg",
-      "61Tda9m5UUL.jpg"
+      "61Tda9m5UUL.jpg",
+      "category":"Phone"
     ],
     "tradename":"trade1005"
   },
@@ -93,7 +99,8 @@
       "617FFRO3vcL.jpg",
       "61LqXPO+h1L.jpg",
       "71J0vMxcwRL.jpg",
-      "61shjFjWs1L.jpg"
+      "61shjFjWs1L.jpg",
+      "category":"Phone"
     ],
     "tradename":"trade1006"
   },
@@ -107,7 +114,8 @@
       "61eDXs9QFNL.jpg",
       "61NYF7BxI8L.jpg",
       "81HXViH8boL.jpg",
-      "61+h6PKyeUL.jpg"
+      "61+h6PKyeUL.jpg",
+      "category":"Phone"
     ],
     "tradename":"trade1007"
   },
@@ -121,7 +129,8 @@
       "61sDyXAepuL.jpg",
       "71k0zz+8paL.jpg",
       "71VNa3QYKcL.jpg",
-      "61nWzrdyUwL.jpg"
+      "61nWzrdyUwL.jpg",
+      "category":"Phone"
     ],
     "tradename":"trade1008"
   }
